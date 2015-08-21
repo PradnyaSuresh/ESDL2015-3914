@@ -8,6 +8,8 @@ int main()
   cout<<"Enter two numbers :"<<endl;
   cin>>a>>b;
   c=a+b;
-  cout<<"Answer = "<<c;
+  cout<<"Addition = "<<c;
+  d=a-b;
+  cout<<"Subtraction = "<<d;
   return 0;
 }
